@@ -1,0 +1,22 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.suo
+*.user
+
+# Arduino compiled output
+*.elf
+*.hex
+*.bin
+build/
+
+# Web Application is a git submodule — managed separately
+# (do not add node_modules here; submodule has its own .gitignore)
+
+# Environment files (never commit secrets)
+.env
+.env.local
