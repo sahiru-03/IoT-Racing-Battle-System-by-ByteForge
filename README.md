@@ -765,4 +765,10 @@ under the supervision of **Former Dean Mr. B.H. SUDANTHA**,
 
 ---
 
+## 📄 License
+
+This project was developed for academic purposes by the ByteForge team. Please contact the repository owners before using or redistributing this project.
+
+---
+
 *Built with ❤️ and a lot of soldering iron burns.*
