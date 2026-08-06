@@ -760,8 +760,8 @@ under the supervision of **Former Dean Mr. B.H. SUDANTHA**,
 | G.T. Idusara | [@thamod-03](https://github.com/thamod-03) |
 | D.S. Dilmina | [@sandeepa-gittech](https://github.com/sandeepa-gittech) |
 | M.H.S. Sheyan | [@sahiru-03](https://github.com/sahiru-03) |
-| M. Manosiha | — |
-| K. Lageesan | — |
+|K. Lageesan | [@lageesan-k](https://github.com/lageesan-k) |
+| M. Manoshiha | [@Manoshiha](https://github.com/Manoshiha) |
 
 ---
 
